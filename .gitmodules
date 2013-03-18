@@ -40,3 +40,6 @@
 [submodule "bundle/go"]
 	path = bundle/go
 	url = git://github.com/uggedal/go-vim.git
+[submodule "bundle/syntastic"]
+	path = bundle/syntastic
+	url = git://github.com/scrooloose/syntastic.git
