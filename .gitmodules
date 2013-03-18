@@ -31,3 +31,6 @@
 [submodule "bundle/unimpaired"]
 	path = bundle/unimpaired
 	url = git://github.com/tpope/vim-unimpaired.git
+[submodule "bundle/indent-guides"]
+	path = bundle/indent-guides
+	url = git://github.com/nathanaelkane/vim-indent-guides.git
