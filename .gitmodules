@@ -46,3 +46,9 @@
 [submodule "bundle/richo-vim"]
 	path = bundle/richo-vim
 	url = git://github.com/richo/richo-vim.git
+[submodule "bundle/dispatch"]
+	path = bundle/dispatch
+	url = git@github.com:tpope/vim-dispatch.git
+[submodule "bundle/clojure-static"]
+	path = bundle/clojure-static
+	url = git@github.com:guns/vim-clojure-static.git
