@@ -52,3 +52,6 @@
 [submodule "bundle/clojure-static"]
 	path = bundle/clojure-static
 	url = git@github.com:guns/vim-clojure-static.git
+[submodule "bundle/vim-rust"]
+	path = bundle/rust-vim
+	url = //github.com/wting/rust.vim.git
