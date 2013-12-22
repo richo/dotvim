@@ -55,3 +55,6 @@
 [submodule "bundle/vim-rust"]
 	path = bundle/rust-vim
 	url = //github.com/wting/rust.vim.git
+[submodule "bundle/vim-SystemVerilog"]
+	path = bundle/vim-SystemVerilog
+	url = git@github.com:WeiChungWu/vim-SystemVerilog.git
