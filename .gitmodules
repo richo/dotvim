@@ -36,7 +36,7 @@
 	url = git://github.com/nathanaelkane/vim-indent-guides.git
 [submodule "bundle/cd-hook"]
 	path = bundle/cd-hook
-	url = git@github.com:richo/cd-hook.git
+	url = git://github.com/richo/cd-hook.git
 [submodule "bundle/go"]
 	path = bundle/go
 	url = git://github.com/uggedal/go-vim.git
@@ -48,13 +48,13 @@
 	url = git://github.com/richo/richo-vim.git
 [submodule "bundle/dispatch"]
 	path = bundle/dispatch
-	url = git@github.com:tpope/vim-dispatch.git
+	url = git://github.com/tpope/vim-dispatch.git
 [submodule "bundle/clojure-static"]
 	path = bundle/clojure-static
-	url = git@github.com:guns/vim-clojure-static.git
+	url = git://github.com/guns/vim-clojure-static.git
 [submodule "bundle/rust.vim"]
 	path = bundle/rust.vim
 	url = git://github.com/wting/rust.vim.git
 [submodule "bundle/vim-SystemVerilog"]
 	path = bundle/vim-SystemVerilog
-	url = git@github.com:WeiChungWu/vim-SystemVerilog.git
+	url = git://github.com/WeiChungWu/vim-SystemVerilog.git
