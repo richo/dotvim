@@ -58,3 +58,6 @@
 [submodule "bundle/vim-SystemVerilog"]
 	path = bundle/vim-SystemVerilog
 	url = git://github.com/WeiChungWu/vim-SystemVerilog.git
+[submodule "bundle/puppet-syntax-vim"]
+	path = bundle/puppet-syntax-vim
+	url = git://github.com/puppetlabs/puppet-syntax-vim.git
