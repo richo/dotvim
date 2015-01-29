@@ -49,9 +49,6 @@
 [submodule "bundle/clojure-static"]
 	path = bundle/clojure-static
 	url = git://github.com/guns/vim-clojure-static.git
-[submodule "bundle/rust.vim"]
-	path = bundle/rust.vim
-	url = git://github.com/wting/rust.vim.git
 [submodule "bundle/vim-SystemVerilog"]
 	path = bundle/vim-SystemVerilog
 	url = git://github.com/WeiChungWu/vim-SystemVerilog.git
