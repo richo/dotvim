@@ -73,3 +73,6 @@
 [submodule "bundle/racer"]
 	path = bundle/racer
 	url = git://github.com/racer-rust/vim-racer.git
+[submodule "bundle/tmux"]
+	path = bundle/tmux
+	url = git@github.com:tmux-plugins/vim-tmux.git
