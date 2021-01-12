@@ -63,7 +63,7 @@
 	url = git://github.com/Superbil/llvm.vim.git
 [submodule "bundle/vim-toml"]
 	path = bundle/vim-toml
-	url = git@github.com:cespare/vim-toml.git
+	url = git://github.com/cespare/vim-toml.git
 [submodule "bundle/ale"]
 	path = bundle/ale
 	url = https://github.com/w0rp/ale.git
@@ -75,4 +75,4 @@
 	url = git://github.com/racer-rust/vim-racer.git
 [submodule "bundle/tmux"]
 	path = bundle/tmux
-	url = git@github.com:tmux-plugins/vim-tmux.git
+	url = git://github.com/tmux-plugins/vim-tmux.git
