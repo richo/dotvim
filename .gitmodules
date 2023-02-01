@@ -1,78 +1,78 @@
 [submodule "bundle/jellybeans"]
 	path = bundle/jellybeans
-	url = git://github.com/nanotech/jellybeans.vim.git
+	url = https://github.com/nanotech/jellybeans.vim.git
 [submodule "bundle/pathogen"]
 	path = bundle/pathogen
-	url = git://github.com/tpope/vim-pathogen.git
+	url = https://github.com/tpope/vim-pathogen.git
 [submodule "bundle/nerdtree"]
 	path = bundle/nerdtree
-	url = git://github.com/scrooloose/nerdtree.git
+	url = https://github.com/scrooloose/nerdtree.git
 [submodule "bundle/fugitive"]
 	path = bundle/fugitive
-	url = git://github.com/tpope/vim-fugitive.git
+	url = https://github.com/tpope/vim-fugitive.git
 [submodule "bundle/vim-git"]
 	path = bundle/vim-git
-	url = git://github.com/tpope/vim-git.git
+	url = https://github.com/tpope/vim-git.git
 [submodule "bundle/markdown"]
 	path = bundle/markdown
-	url = git://github.com/plasticboy/vim-markdown.git
+	url = https://github.com/plasticboy/vim-markdown.git
 [submodule "bundle/gist"]
 	path = bundle/gist
-	url = git://github.com/mattn/gist-vim.git
+	url = https://github.com/mattn/gist-vim.git
 [submodule "bundle/webapi-vim"]
 	path = bundle/webapi-vim
-	url = git://github.com/mattn/webapi-vim.git
+	url = https://github.com/mattn/webapi-vim.git
 [submodule "bundle/matchit"]
 	path = bundle/matchit
-	url = git://github.com/vim-scripts/matchit.zip.git
+	url = https://github.com/vim-scripts/matchit.zip.git
 [submodule "bundle/commentary"]
 	path = bundle/commentary
-	url = git://github.com/tpope/vim-commentary.git
+	url = https://github.com/tpope/vim-commentary.git
 [submodule "bundle/unimpaired"]
 	path = bundle/unimpaired
-	url = git://github.com/tpope/vim-unimpaired.git
+	url = https://github.com/tpope/vim-unimpaired.git
 [submodule "bundle/indent-guides"]
 	path = bundle/indent-guides
-	url = git://github.com/nathanaelkane/vim-indent-guides.git
+	url = https://github.com/nathanaelkane/vim-indent-guides.git
 [submodule "bundle/cd-hook"]
 	path = bundle/cd-hook
-	url = git://github.com/richo/cd-hook.git
+	url = https://github.com/richo/cd-hook.git
 [submodule "bundle/richo-vim"]
 	path = bundle/richo-vim
-	url = git://github.com/richo/richo-vim.git
+	url = https://github.com/richo/richo-vim.git
 [submodule "bundle/dispatch"]
 	path = bundle/dispatch
-	url = git://github.com/tpope/vim-dispatch.git
+	url = https://github.com/tpope/vim-dispatch.git
 [submodule "bundle/clojure-static"]
 	path = bundle/clojure-static
-	url = git://github.com/guns/vim-clojure-static.git
+	url = https://github.com/guns/vim-clojure-static.git
 [submodule "bundle/vim-SystemVerilog"]
 	path = bundle/vim-SystemVerilog
-	url = git://github.com/WeiChungWu/vim-SystemVerilog.git
+	url = https://github.com/WeiChungWu/vim-SystemVerilog.git
 [submodule "bundle/puppet-syntax-vim"]
 	path = bundle/puppet-syntax-vim
-	url = git://github.com/puppetlabs/puppet-syntax-vim.git
+	url = https://github.com/puppetlabs/puppet-syntax-vim.git
 [submodule "bundle/vim-go"]
 	path = bundle/vim-go
-	url = git://github.com/fatih/vim-go.git
+	url = https://github.com/fatih/vim-go.git
 [submodule "bundle/rust.vim"]
 	path = bundle/rust.vim
-	url = git://github.com/rust-lang/rust.vim
+	url = https://github.com/rust-lang/rust.vim
 [submodule "bundle/llvm.vim"]
 	path = bundle/llvm.vim
-	url = git://github.com/Superbil/llvm.vim.git
+	url = https://github.com/Superbil/llvm.vim.git
 [submodule "bundle/vim-toml"]
 	path = bundle/vim-toml
-	url = git://github.com/cespare/vim-toml.git
+	url = https://github.com/cespare/vim-toml.git
 [submodule "bundle/ale"]
 	path = bundle/ale
 	url = https://github.com/w0rp/ale.git
 [submodule "bundle/vim-rhubarb"]
 	path = bundle/vim-rhubarb
-	url = git://github.com/tpope/vim-rhubarb.git
+	url = https://github.com/tpope/vim-rhubarb.git
 [submodule "bundle/racer"]
 	path = bundle/racer
-	url = git://github.com/racer-rust/vim-racer.git
+	url = https://github.com/racer-rust/vim-racer.git
 [submodule "bundle/tmux"]
 	path = bundle/tmux
-	url = git://github.com/tmux-plugins/vim-tmux.git
+	url = https://github.com/tmux-plugins/vim-tmux.git
